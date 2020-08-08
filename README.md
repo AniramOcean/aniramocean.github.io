@@ -1,3 +1,9 @@
+https://angular-blog-29bf4.web.app
+
+to admin panel: https://angular-blog-29bf4.web.app/admin
+email: user@gmail.com
+pass: 123456
+
 # Blog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
