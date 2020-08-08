@@ -1,0 +1,98 @@
+{
+  "configVersion": 1,
+  "timestamp": 1596892890122,
+  "index": "https://aniramocean.github.io/Angular-blog/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://aniramocean.github.io/Angular-blog/4.53b360f53daa8748cd98.js",
+        "https://aniramocean.github.io/Angular-blog/favicon.ico",
+        "https://aniramocean.github.io/Angular-blog/index.html",
+        "https://aniramocean.github.io/Angular-blog/main.a178c5ae3a8ab446ffb3.js",
+        "https://aniramocean.github.io/Angular-blog/manifest.webmanifest",
+        "https://aniramocean.github.io/Angular-blog/polyfills.a4021de53358bb0fec14.js",
+        "https://aniramocean.github.io/Angular-blog/runtime.91c9b6e9c1ce6c25ab98.js",
+        "https://aniramocean.github.io/Angular-blog/styles.eed66f8833f917aa3929.css"
+      ],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/css\\?family=Roboto"
+      ]
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://aniramocean.github.io/Angular-blog/assets/icons/icon-128x128.png",
+        "https://aniramocean.github.io/Angular-blog/assets/icons/icon-144x144.png",
+        "https://aniramocean.github.io/Angular-blog/assets/icons/icon-152x152.png",
+        "https://aniramocean.github.io/Angular-blog/assets/icons/icon-192x192.png",
+        "https://aniramocean.github.io/Angular-blog/assets/icons/icon-384x384.png",
+        "https://aniramocean.github.io/Angular-blog/assets/icons/icon-512x512.png",
+        "https://aniramocean.github.io/Angular-blog/assets/icons/icon-72x72.png",
+        "https://aniramocean.github.io/Angular-blog/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "firebase-posts",
+      "patterns": [
+        "https:\\/\\/angular-blog-29bf4\\.firebaseio\\.com\\/.*"
+      ],
+      "strategy": "performance",
+      "maxSize": 5,
+      "maxAge": 0,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "https://aniramocean.github.io/Angular-blog/4.53b360f53daa8748cd98.js": "d193ebdb11607479c9d2ba878c3d30b94597a83c",
+    "https://aniramocean.github.io/Angular-blog/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://aniramocean.github.io/Angular-blog/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://aniramocean.github.io/Angular-blog/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://aniramocean.github.io/Angular-blog/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://aniramocean.github.io/Angular-blog/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://aniramocean.github.io/Angular-blog/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://aniramocean.github.io/Angular-blog/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://aniramocean.github.io/Angular-blog/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://aniramocean.github.io/Angular-blog/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://aniramocean.github.io/Angular-blog/index.html": "4803acabfd1e6b85409631e3f507f54df2da3d72",
+    "https://aniramocean.github.io/Angular-blog/main.a178c5ae3a8ab446ffb3.js": "75d438f275bab7e75f14ff2ba915db75dd919b96",
+    "https://aniramocean.github.io/Angular-blog/manifest.webmanifest": "70adaeec6880ac8b34dcf6f0540f0f367854e882",
+    "https://aniramocean.github.io/Angular-blog/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
+    "https://aniramocean.github.io/Angular-blog/runtime.91c9b6e9c1ce6c25ab98.js": "1b0d3eed38bab4c99f626060f0f3f81c68ca9a4f",
+    "https://aniramocean.github.io/Angular-blog/styles.eed66f8833f917aa3929.css": "04f3cbb6772a8d4ef1b00303660782e219776daa"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
