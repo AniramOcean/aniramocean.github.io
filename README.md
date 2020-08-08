@@ -1,7 +1,9 @@
-https://angular-blog-29bf4.web.app
+site: https://angular-blog-29bf4.web.app
 
 to admin panel: https://angular-blog-29bf4.web.app/admin
+
 email: user@gmail.com
+
 pass: 123456
 
 # Blog
